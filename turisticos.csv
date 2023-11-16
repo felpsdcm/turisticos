@@ -1,7 +1,13 @@
-﻿Parque Ibirapuera;Um dos maiores parques urbanos da América Latina;-235.877;-466.578
+﻿Nome;Descrição;Latitude;Longitude
+Parque Ibirapuera;Um dos maiores parques urbanos da América Latina;-235.877;-466.578
 Avenida Paulista;Importante avenida comercial e cultural;-235.616;-466.561
 Museu de Arte de São Paulo (MASP);Icone arquitetônico e cultural;-235.614;-466.553
 Mercado Municipal;Mercado tradicional com gastronomia diversificada;-235.441;-466.272
 Estádio do Morumbi;Casa do São Paulo Futebol Clube;-236.025;-467.222
 Pátio do Colégio;Local de fundação da cidade de São Paulo;-235.474;-466.341
 Edifício Copan;Edifício icônico projetado por Oscar Niemeyer;-235.468;-466.480
+;;;
+;;;
+;;;
+;;;
+mongodb+srv://feliperamosdcm:<password>@clusterturistico.pdz1k5q.mongodb.net/?retryWrites=true&w=majority;;;
